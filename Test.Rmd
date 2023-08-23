@@ -1,0 +1,13 @@
+---
+title: "Tools7970"
+output: html_notebook
+---
+
+# Date 8/23/2023
+
+This is where I'm going to enter my paragraph for week 1.
+
+
+# Date 8/30/2023
+
+Start my second week.
